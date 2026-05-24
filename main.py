@@ -1,1 +1,1 @@
-print("Hello world")dfg
+print("Hello world"git remote -v)dfg
