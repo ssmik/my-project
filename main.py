@@ -1,1 +1,1 @@
-print("Hello world")qwe
+print("Hello world")
